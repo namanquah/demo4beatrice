@@ -1,20 +1,22 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-    <widget xmlns   = "http://www.w3.org/ns/widgets"
-        xmlns:gap   = "http://phonegap.com/ns/1.0"
-        id          = "com.namanquah.beatricedemo"
-        versionCode = "10" 
-        version     = "1.0.0" >
+<?xml version="1.0" encoding="UTF-8"?>
 
-    <!-- versionCode is optional and Android only -->
+<!-- config.xml reference: https://build.phonegap.com/docs/config-xml -->
+<widget xmlns     = "http://www.w3.org/ns/widgets"
+        xmlns:gap = "http://phonegap.com/ns/1.0"
+        id        = "com.namanquah.beatrice"
+        version   = "1.0.0">
 
-    <name>PhoneGap NNA</name>
+    <name>MyRide</name>
 
     <description>
-        A basic config file
+        A public transit app to improve transit intelligence
     </description>
 
-    <author href="https://build.phonegap.com" email="support@phonegap.com">
-        N Amanquah 
-    </author>
+    <author href="httpp://www.ashesi.edu.gh" email="migaliza.lyza@gmail.com">>
+			Beatrice Migaliza
+		</author>
+
+   
+   
 
 </widget>
